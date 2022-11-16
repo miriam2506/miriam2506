@@ -14,6 +14,20 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **Lab Notes**
 - 🌱 I’m currently learning **REACT**
-- 📫 How to reach me: <br><a href="https://www.linkedin.com/in/miriam-cortes/"><img align="center" src="" alt="icon | LinkedIn" width="21px"/></a><br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/miriam-cortes/"><img align="center" src="https://github.com/miriam2506/miriam2506/blob/main/linkedinn.png" alt="icon | LinkedIn" width="21px"/></a>
 - 😄 Pronouns: *She/Her*
 
+## 💼 Technical Skills
+
+![REACT](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![CSS](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+--
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miriam2506&show_icons=true&theme=dracula)
+
+<a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por Enamo Studios - Flaticon</a>
